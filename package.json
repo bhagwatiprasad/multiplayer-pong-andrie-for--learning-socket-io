@@ -1,0 +1,22 @@
+{
+  "name": "multiplayer-pong-andrie-for--learning-socket-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagwatiprasad/multiplayer-pong-andrie-for--learning-socket-io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhagwatiprasad/multiplayer-pong-andrie-for--learning-socket-io/issues"
+  },
+  "homepage": "https://github.com/bhagwatiprasad/multiplayer-pong-andrie-for--learning-socket-io#readme",
+  "dependencies": {
+    "socket.io": "^4.5.2"
+  }
+}
